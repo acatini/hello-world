@@ -16,6 +16,15 @@ p {
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
+#du {
+  text-align: center;
+}
+
+#mus{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
 #ha {
   color: black;
   text-decoration: none;
